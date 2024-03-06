@@ -1,11 +1,11 @@
-# Shivam Garg
+# Shivam Garg <img src="https://komarev.com/ghpvc/?username=gargshivam1101&color=blue" alt="visitors">
 
-Hi! I am *Shivam*, a **Full Stack Developer** with *more than two years of experience*, and currently pursuing **Master of Engineering** at *Concordia University, Montreal*.
+Hi! I am *Shivam*, a **Full Stack Developer** with *more than two years of experience*, and currently pursuing **Master of Engineering** at *[Concordia Universty](https://www.concordia.ca/), Montreal*.
 
 
-## Skills and Technologies
+## Skills and Technologies 🚀
 
-I am skilled in all prominent technologies required for web development, majorly including
+I am proficient in technologies crucial for web development, majorly including
  - SpringBoot
  - Angular
  - Vue.js
@@ -15,7 +15,7 @@ I am skilled in all prominent technologies required for web development, majorly
  - JavaScript
  - Python
 
-## Contact Information
-- [LinkedIn](https://www.linkedin.com/in/garg-shivam/)
-- [Email](mailto:sgshivamgarg11@gmail.com)
-- (438) 779-1101
+## Contact Information ☎️
+[<img width="32" height="32" src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/garg-shivam/)
+[<img width="32" height="32" src="https://img.icons8.com/plasticine/32/new-post--v1.png" alt="Email"/>](mailto:sgshivamgarg11@gmail.com)
+
