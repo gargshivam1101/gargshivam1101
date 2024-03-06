@@ -1,16 +1,21 @@
-### Hi there 👋
+# Shivam Garg
 
-<!--
-**gargshivam1101/gargshivam1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am *Shivam*, a **Full Stack Developer** with *more than two years of experience*, and currently pursuing **Master of Engineering** at *Concordia University, Montreal*.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+
+I am skilled in all prominent technologies required for web development, majorly including
+ - SpringBoot
+ - Angular
+ - Vue.js
+ - Hibernate
+ - Java
+ - TypeScript
+ - JavaScript
+ - Python
+
+## Contact Information
+- [LinkedIn](https://www.linkedin.com/in/garg-shivam/)
+- [Email](mailto:sgshivamgarg11@gmail.com)
+- (438) 779-1101
